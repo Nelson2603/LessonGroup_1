@@ -1,7 +1,6 @@
-package org.example.task2_unitTest;
+package org.example.task2_shopTicket;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
